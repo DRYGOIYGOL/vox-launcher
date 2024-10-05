@@ -28,7 +28,7 @@ CLUSTER_GROUP_TOOLTIP_HIGHTLIGHT_PATTERNS:
     - ➍
 
 SHARD_NAME:
-    MASTER: Лес 
+    MASTER: Forest   # Unused
     EMPTY: Тут пока пусто...
 
 LAUNCH_BUTTON:
